@@ -15,3 +15,6 @@ public class Cheacksorted {
     System.out.println(isSorted(arr, 0));
   }
 }
+
+// Time = O(n);
+// Space = O(n);
